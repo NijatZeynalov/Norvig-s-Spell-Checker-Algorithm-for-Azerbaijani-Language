@@ -36,4 +36,7 @@ Now let's do a few experiments by applying our algorithm to our corpus. Since I 
 
 In general, although it can find the right words, in most cases this algorithm makes mistakes. Although the corpus is clean. In this regard, I will try new methods on the same corpus and choose the most accurate.
 
-In conclusion, Peter Norvig’s spell checking algorithm is an easily understandable, simple but an effective algorithm. Although it is originally written for English language, the way it is written enables it to be implemented to other languages with minor modifications
+In conclusion, Peter Norvig’s spell checking algorithm is an easily understandable, simple but an effective algorithm. Although it is originally written for English language, the way it is written enables it to be implemented to other languages with minor modifications.
+
+
+[You can read my medium blog about this project.](https://nijatzeynalov.medium.com/pythonla-az%C9%99rbaycanca-s%C3%B6zl%C9%99rin-d%C3%BCzg%C3%BCn-yaz%C4%B1l%C4%B1%C5%9F%C4%B1-peter-norvig-alqoritmas%C4%B1-%C3%B6z-dilimizd%C9%99-korpus-8d4989558f01)
